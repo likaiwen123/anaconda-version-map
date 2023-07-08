@@ -8,11 +8,11 @@ version of the Anaconda distribution.
 
 | Anaconda Version  | Python Version |
 | ----------------- | -------------- |
-| Anaconda3-2023.03 | Python 3.10  |
-| Anaconda3-2022.10 | Python 3.9   |
-| Anaconda3-2022.05 | Python 3.9   |
-| Anaconda3-2021.11 | Python 3.9   |
-| Anaconda3-2021.05 | Python 3.8   |
+| Anaconda3-2023.03 | Python 3.10.9  |
+| Anaconda3-2022.10 | Python 3.9.13  |
+| Anaconda3-2022.05 | Python 3.9.12* |
+| Anaconda3-2021.11 | Python 3.9.7*  |
+| Anaconda3-2021.05 | Python 3.8.8*  |
 | Anaconda3-2021.04 | Python 3.8.8   |
 | Anaconda3-2020.11 | Python 3.8.5   |
 | Anaconda3-2020.07 | Python 3.8.3   |
